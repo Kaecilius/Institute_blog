@@ -15,7 +15,7 @@ body {
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
-    height: 700px;
+    height: fit-content;
     background-color: white;
 }
 .container h1 {
